@@ -44,11 +44,11 @@ const Login = () => {
           </div>
 
           <div className="flex flex-col gap-2 mb-2 text-xs text-[#858585] sm:flex-row">
-            <button className="flex items-center justify-center sm:w-[180px] p-2 bg-white rounded-xl">
+            <button className="flex items-center justify-center sm:w-[180px] p-2 bg-gray-100 rounded-xl">
               <FcGoogle className="text-lg" />
               <span className="ml-2">Sign in with Google</span>
             </button>
-            <button className="flex items-center justify-center sm:w-[180px] p-2 bg-white rounded-xl">
+            <button className="flex items-center justify-center sm:w-[180px] p-2 bg-gray-100 rounded-xl">
               <FaApple className="text-lg" />
               <span className="ml-2">Sign in with Apple</span>
             </button>
